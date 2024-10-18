@@ -31,10 +31,13 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![image](https://github.com/user-attachments/assets/fdb5800b-c21c-42a5-a396-2feb52736e56)
+
+![image](https://github.com/user-attachments/assets/2f4dd85e-8797-44d4-9456-7b34b99b10e3)
+
+
 
 ### Output:
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/f7c07a45-a61d-46ff-83ba-9906a283a6ae)
 
 
 ### Name: 212223240036
